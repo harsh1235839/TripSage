@@ -32,8 +32,8 @@ Copy code
 MAPBOX_API_KEY=your_mapbox_api_key
 OPENAI_API_KEY=your_openai_api_key
 Start the development server:
-npm start
-Open your browser and go to http://localhost:3000 to see TripSage in action.
+python app.py
+Go live on index.html to see TripSage in action.
 Usage
 Generate Itinerary: Use the AI feature to create personalized travel plans.
 Explore Adventure Activities: Choose from curated adventure itineraries.
